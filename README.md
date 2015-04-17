@@ -10,4 +10,4 @@ To use this theme:
 5. Browse to the location of your new greatest theme ever
 6. Click "Finish"
 
-[Never Forget](http://i.imgur.com/Drhd6RU.jpg)
+![Never Forget](http://i.imgur.com/Drhd6RU.jpg)
